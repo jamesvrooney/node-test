@@ -1,0 +1,24 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "Simple node test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesvrooney/node-test.git"
+  },
+  "keywords": [
+    "node",
+    "test",
+    "jamesvrooney"
+  ],
+  "author": "jamesvrooney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesvrooney/node-test/issues"
+  },
+  "homepage": "https://github.com/jamesvrooney/node-test#readme"
+}
